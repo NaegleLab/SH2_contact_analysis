@@ -1,0 +1,19 @@
+DE_FG_specificity	 3546b5
+DE_FG_specificity	P06241|FYN|1|147|245	-1	70	70	DE_FG_specificity
+DE_FG_specificity	P06241|FYN|1|147|245	-1	71	71	DE_FG_specificity
+DE_FG_specificity	P06241|FYN|1|147|245	-1	72	72	DE_FG_specificity
+DE_FG_specificity	P06241|FYN|1|147|245	-1	90	90	DE_FG_specificity
+DE_FG_specificity	P06241|FYN|1|147|245	-1	91	91	DE_FG_specificity
+DE_FG_specificity	P06241|FYN|1|147|245	-1	92	92	DE_FG_specificity
+DE_FG_specificity	Q9ULZ2|STAP1|1|175|279	-1	67	67	DE_FG_specificity
+DE_FG_specificity	Q9ULZ2|STAP1|1|175|279	-1	68	68	DE_FG_specificity
+DE_FG_specificity	Q9ULZ2|STAP1|1|175|279	-1	69	69	DE_FG_specificity
+DE_FG_specificity	Q9ULZ2|STAP1|1|175|279	-1	87	87	DE_FG_specificity
+DE_FG_specificity	Q9ULZ2|STAP1|1|175|279	-1	88	88	DE_FG_specificity
+DE_FG_specificity	Q9ULZ2|STAP1|1|175|279	-1	89	89	DE_FG_specificity
+DE_FG_specificity	P27986|PIK3R1|1|331|427	-1	63	63	DE_FG_specificity
+DE_FG_specificity	P27986|PIK3R1|1|331|427	-1	64	64	DE_FG_specificity
+DE_FG_specificity	P27986|PIK3R1|1|331|427	-1	65	65	DE_FG_specificity
+DE_FG_specificity	P27986|PIK3R1|1|331|427	-1	83	83	DE_FG_specificity
+DE_FG_specificity	P27986|PIK3R1|1|331|427	-1	84	84	DE_FG_specificity
+DE_FG_specificity	P27986|PIK3R1|1|331|427	-1	85	85	DE_FG_specificity

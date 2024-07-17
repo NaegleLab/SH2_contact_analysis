@@ -1,0 +1,25 @@
+phospholipid_binding 	3546b5
+phospholipid_binding	P06241|FYN|1|147|245	-1	36	36	phospholipid_binding
+phospholipid_binding	P06241|FYN|1|147|245	-1	60	60	phospholipid_binding
+phospholipid_binding	P06241|FYN|1|147|245	-1	61	61	phospholipid_binding
+phospholipid_binding	P07947|YES1|1|156|254	-1	60	60	phospholipid_binding
+phospholipid_binding	P07947|YES1|1|156|254	-1	61	61	phospholipid_binding
+phospholipid_binding	P16885|PLCG2|2|644|734	-1	84	84	phospholipid_binding
+phospholipid_binding	P16885|PLCG2|2|644|734	-1	85	85	phospholipid_binding
+phospholipid_binding	Q13882|PTK6|1|76|169	-1	56	56	phospholipid_binding
+phospholipid_binding	Q13882|PTK6|1|76|169	-1	61	61	phospholipid_binding
+phospholipid_binding	P43403|ZAP70|2|161|253	-1	16	16	phospholipid_binding
+phospholipid_binding	P43403|ZAP70|2|161|253	-1	26	26	phospholipid_binding
+phospholipid_binding	P43403|ZAP70|2|161|253	-1	46	46	phospholipid_binding
+phospholipid_binding	P43403|ZAP70|2|161|253	-1	91	91	phospholipid_binding
+phospholipid_binding	P19174|PLCG1|2|666|755	-1	83	83	phospholipid_binding
+phospholipid_binding	P19174|PLCG1|2|666|755	-1	84	84	phospholipid_binding
+phospholipid_binding	P20936|RASA1|1|179|271	-1	10	10	phospholipid_binding
+phospholipid_binding	P20936|RASA1|1|179|271	-1	29	29	phospholipid_binding
+phospholipid_binding	P51813|BMX|1|294|391	-1	20	20	phospholipid_binding
+phospholipid_binding	P51813|BMX|1|294|391	-1	22	22	phospholipid_binding
+phospholipid_binding	Q06187|BTK|1|279|376	-1	33	33	phospholipid_binding
+phospholipid_binding	Q06187|BTK|1|279|376	-1	36	36	phospholipid_binding
+phospholipid_binding	P06239|LCK|1|125|223	-1	58	58	phospholipid_binding
+phospholipid_binding	P06239|LCK|1|125|223	-1	60	60	phospholipid_binding
+phospholipid_binding	P00519|ABL1|1|125|216	-1	51	51	phospholipid_binding

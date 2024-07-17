@@ -1,0 +1,470 @@
+Collapsing domains based on mulit-domains within a larger domain
+Parameters: 
+A6NKC9
+Removal based on domain overlap
+	 REMOVED: SH2D7, SH2 domain:IPR035885:[{'start': 43, 'end': 144}], all instances
+O00459
+Removal based on domain overlap
+	 REMOVED: PI3K p85 subunit, C-terminal SH2 domain:IPR035020:[{'start': 615, 'end': 717}], all instances
+	 REMOVED: PI3K p85 subunit, N-terminal SH2 domain:IPR035022:[{'start': 322, 'end': 432}], all instances
+	 REMOVED: Phosphatidylinositol 3-kinase regulatory subunit beta, SH3 domain:IPR035586:[{'start': 7, 'end': 80}], all instances
+O14492
+Removal based on domain overlap
+	 REMOVED: SH2B2, SH2 domain:IPR035058:[{'start': 409, 'end': 504}], all instances
+O14508
+Removal based on domain overlap
+	 REMOVED: SOCS2, SH2 domain:IPR035862:[{'start': 40, 'end': 142}], all instances
+	 REMOVED: Suppressor of cytokine signalling 2, SOCS box domain:IPR028410:[{'start': 158, 'end': 198}], all instances
+O14512
+Removal based on domain overlap
+	 REMOVED: SOCS7, SH2 domain:IPR035866:[{'start': 389, 'end': 489}], all instances
+	 REMOVED: SOCS7, SOCS box domain:IPR037346:[{'start': 513, 'end': 561}], all instances
+O14543
+Removal based on domain overlap
+	 REMOVED: SOCS3, SH2 domain:IPR035863:[{'start': 35, 'end': 135}], all instances
+	 REMOVED: Suppressor of cytokine signalling 3, SOCS box domain:IPR028414:[{'start': 184, 'end': 225}], all instances
+O14544
+Removal based on domain overlap
+	 REMOVED: SOCS6, SH2 domain:IPR035865:[{'start': 373, 'end': 472}], all instances
+	 REMOVED: SOCS6, SOCS box domain:IPR037345:[{'start': 495, 'end': 535}], all instances
+O14796
+Removal based on domain overlap
+	 REMOVED: EAT-2, SH2 domain:IPR035049:[{'start': 1, 'end': 103}], all instances
+O15357
+Removal based on domain overlap
+O15524
+Removal based on domain overlap
+	 REMOVED: SOCS1, SH2 domain:IPR035861:[{'start': 68, 'end': 165}], all instances
+O43639
+Removal based on domain overlap
+	 REMOVED: Nck2, SH2 domain:IPR035883:[{'start': 283, 'end': 380}], all instances
+	 REMOVED: Nck2, SH3 domain 1:IPR035559:[{'start': 2, 'end': 59}], all instances
+	 REMOVED: Nck2, SH3 domain 2:IPR035560:[{'start': 114, 'end': 168}], all instances
+	 REMOVED: Nck2, SH3 domain 3:IPR035561:[{'start': 198, 'end': 256}], all instances
+O60674
+Removal based on domain overlap
+	 REMOVED: FERM central domain:IPR019748:[{'start': 152, 'end': 261}], all instances
+	 REMOVED: Band 4.1 domain:IPR019749:[{'start': 33, 'end': 270}], all instances
+	 REMOVED: JAK2, FERM domain C-lobe:IPR037838:[{'start': 266, 'end': 386}], all instances
+	 REMOVED: JAK, FERM F2 lobe domain:IPR041046:[{'start': 143, 'end': 261}], all instances
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 546, 'end': 805}, {'start': 849, 'end': 1120}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 545, 'end': 805}, {'start': 849, 'end': 1123}], all instances
+	 REMOVED: Janus kinase 2, pseudokinase domain:IPR035588:[{'start': 545, 'end': 806}], all instances
+	 REMOVED: Janus kinase 2, catalytic domain:IPR035589:[{'start': 844, 'end': 1127}], all instances
+	 REMOVED: Tyrosine-protein kinase JAK2, SH2 domain:IPR035860:[{'start': 386, 'end': 482}], all instances
+O60880
+Removal based on domain overlap
+	 REMOVED: SH2D1A, SH2 domain:IPR035876:[{'start': 2, 'end': 104}], all instances
+O75159
+Removal based on domain overlap
+	 REMOVED: SOCS5, SOCS box domain:IPR037343:[{'start': 479, 'end': 534}], all instances
+O75791
+Removal based on domain overlap
+	 REMOVED: GRAP2, C-terminal SH3 domain:IPR035646:[{'start': 275, 'end': 327}], all instances
+O75815
+Removal based on domain overlap
+	 REMOVED: SHEP1/BCAR3/NSP1, SH2 domain:IPR044102:[{'start': 147, 'end': 282}], all instances
+P00519
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 242, 'end': 492}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 242, 'end': 493}], all instances
+	 REMOVED: Tyrosine-protein kinase ABL, SH2 domain:IPR035837:[{'start': 123, 'end': 216}], all instances
+P06239
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 245, 'end': 493}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 245, 'end': 494}], all instances
+	 REMOVED: Tyrosine-protein kinase Lck, SH2 domain:IPR035850:[{'start': 123, 'end': 223}], all instances
+	 REMOVED: Lck, SH3 domain:IPR035749:[{'start': 65, 'end': 118}], all instances
+P06241
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 271, 'end': 520}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 271, 'end': 520}], all instances
+	 REMOVED: Fyn/Yrk, SH2 domain:IPR047924:[{'start': 145, 'end': 245}], all instances
+	 REMOVED: Fyn/Yrk, SH3 domain:IPR035750:[{'start': 85, 'end': 140}], all instances
+P07332
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 562, 'end': 814}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 561, 'end': 814}], all instances
+	 REMOVED: Fes/Fps/Fer, SH2 domain:IPR035849:[{'start': 453, 'end': 537}], all instances
+	 REMOVED: F-BAR domain:IPR031160:[{'start': 1, 'end': 260}], all instances
+P07947
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 278, 'end': 526}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 277, 'end': 526}], all instances
+	 REMOVED: Tyrosine-protein kinase Yes, SH3 domain:IPR035751:[{'start': 94, 'end': 151}], all instances
+P07948
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 247, 'end': 496}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 247, 'end': 497}], all instances
+	 REMOVED: Tyrosine-protein kinase Lyn, SH2 domain:IPR035852:[{'start': 125, 'end': 225}], all instances
+	 REMOVED: Tyrosine-protein kinase Lyn, SH3 domain:IPR035748:[{'start': 67, 'end': 122}], all instances
+P08631
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 262, 'end': 511}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 262, 'end': 511}], all instances
+	 REMOVED: Tyrosine-protein kinase HCK, SH2 domain:IPR035851:[{'start': 140, 'end': 243}], all instances
+P09769
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 263, 'end': 512}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 263, 'end': 512}], all instances
+	 REMOVED: Tyrosine-protein kinase Fgr, SH2 domain:IPR035693:[{'start': 140, 'end': 240}], all instances
+P12931
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 271, 'end': 518}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 270, 'end': 519}], all instances
+P15498
+Removal based on domain overlap
+	 REMOVED: VAV1, SH2 domain:IPR035879:[{'start': 665, 'end': 767}], all instances
+	 REMOVED: VAV1 protein, second SH3 domain:IPR035729:[{'start': 786, 'end': 839}], all instances
+	 REMOVED: VAV1 protein, first SH3 domain:IPR035730:[{'start': 596, 'end': 658}], all instances
+	 REMOVED: Calmodulin-regulated spectrin-associated protein-like, Calponin-homology domain:IPR022613:[{'start': 19, 'end': 102}], all instances
+	 REMOVED: Vav, PH domain:IPR037832:[{'start': 385, 'end': 508}], all instances
+P15882
+Removal based on domain overlap
+	 REMOVED: Chimaerin, RhoGAP domain:IPR037860:[{'start': 266, 'end': 459}], all instances
+	 REMOVED: Chimaerin, SH2 domain:IPR035840:[{'start': 42, 'end': 128}], all instances
+	 REMOVED: Diacylglycerol/phorbol-ester binding:IPR020454:[{'start': 203, 'end': 217}, {'start': 219, 'end': 228}, {'start': 232, 'end': 243}, {'start': 244, 'end': 256}], all instances
+P16333
+Removal based on domain overlap
+	 REMOVED: Nck1, SH2 domain:IPR035882:[{'start': 280, 'end': 376}], all instances
+	 REMOVED: Nck1, SH3 domain 1:IPR035562:[{'start': 3, 'end': 61}], all instances
+	 REMOVED: Nck1, SH3 domain 2:IPR035564:[{'start': 108, 'end': 162}], all instances
+	 REMOVED: Nck1, SH3 domain 3:IPR035565:[{'start': 193, 'end': 249}], all instances
+P16591
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 565, 'end': 814}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 563, 'end': 814}], all instances
+	 REMOVED: Fes/Fps/Fer, SH2 domain:IPR035849:[{'start': 453, 'end': 538}], all instances
+	 REMOVED: F-BAR domain:IPR031160:[{'start': 1, 'end': 259}], all instances
+	 REMOVED: Tyrosine-protein kinase Fer, F-BAR domain:IPR037452:[{'start': 5, 'end': 238}], all instances
+P16885
+Removal based on domain overlap
+	 REMOVED: PLC-gamma, C-terminal SH2 domain:IPR035023:[{'start': 641, 'end': 744}], all instances
+	 REMOVED: PLC-gamma, N-terminal SH2 domain:IPR035024:[{'start': 527, 'end': 627}], all instances
+	 REMOVED: 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2, SH3 domain:IPR035723:[{'start': 773, 'end': 827}], all instances
+P19174
+Removal based on domain overlap
+	 REMOVED: Pleckstrin homology domain:IPR001849:[{'start': 27, 'end': 144}], some instances: 489 804
+	 REMOVED: PLC-gamma, C-terminal SH2 domain:IPR035023:[{'start': 663, 'end': 765}], all instances
+	 REMOVED: PLC-gamma, N-terminal SH2 domain:IPR035024:[{'start': 545, 'end': 649}], all instances
+	 REMOVED: 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1, SH3 domain:IPR035724:[{'start': 791, 'end': 850}], all instances
+P20936
+Removal based on domain overlap
+	 REMOVED: Ras GTPase-activating protein 1, N-terminal SH2 domain:IPR035841:[{'start': 161, 'end': 264}], all instances
+	 REMOVED: Ras GTPase-activating protein 1, C-terminal SH2 domain:IPR035842:[{'start': 350, 'end': 426}], all instances
+	 REMOVED: RasGAP, SH3 domain:IPR035652:[{'start': 281, 'end': 339}], all instances
+P23458
+Removal based on domain overlap
+	 REMOVED: FERM central domain:IPR019748:[{'start': 154, 'end': 277}], all instances
+	 REMOVED: Band 4.1 domain:IPR019749:[{'start': 32, 'end': 286}], all instances
+	 REMOVED: JAK, FERM F2 lobe domain:IPR041046:[{'start': 147, 'end': 277}], all instances
+	 REMOVED: FERM F1 lobe ubiquitin-like domain:IPR041155:[{'start': 38, 'end': 128}], all instances
+	 REMOVED: JAK1-3/TYK2, pleckstrin homology-like domain:IPR041381:[{'start': 284, 'end': 421}], all instances
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 585, 'end': 844}, {'start': 876, 'end': 1147}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 583, 'end': 845}, {'start': 875, 'end': 1149}], all instances
+P27986
+Removal based on domain overlap
+	 REMOVED: PI3K p85 subunit, C-terminal SH2 domain:IPR035020:[{'start': 617, 'end': 720}], all instances
+	 REMOVED: PI3K p85 subunit, N-terminal SH2 domain:IPR035022:[{'start': 325, 'end': 435}], all instances
+	 REMOVED: Phosphatidylinositol 3-kinase regulatory subunit alpha, SH3 domain:IPR035591:[{'start': 5, 'end': 79}], all instances
+	 REMOVED: PIK3R1, inter-SH2 domain:IPR044124:[{'start': 440, 'end': 600}], all instances
+P29350
+Removal based on domain overlap
+	 REMOVED: Tyrosine-specific protein phosphatases domain:IPR000387:[{'start': 430, 'end': 506}], all instances
+	 REMOVED: Protein-tyrosine phosphatase, catalytic:IPR003595:[{'start': 408, 'end': 514}], all instances
+P29353
+Removal based on domain overlap
+	 REMOVED: SH2 adaptor protein C, SH2 domain:IPR035676:[{'start': 480, 'end': 583}], all instances
+	 REMOVED: PTB/PI domain:IPR006020:[{'start': 156, 'end': 339}], all instances
+P29597
+Removal based on domain overlap
+	 REMOVED: Tyrosine-protein kinase, non-receptor, TYK2, N-terminal:IPR016045:[{'start': 169, 'end': 182}, {'start': 266, 'end': 276}, {'start': 516, 'end': 526}], all instances
+	 REMOVED: Band 4.1 domain:IPR019749:[{'start': 22, 'end': 275}], all instances
+	 REMOVED: JAK, FERM F2 lobe domain:IPR041046:[{'start': 142, 'end': 266}], all instances
+	 REMOVED: FERM F1 lobe ubiquitin-like domain:IPR041155:[{'start': 28, 'end': 124}], all instances
+	 REMOVED: JAK1-3/TYK2, pleckstrin homology-like domain:IPR041381:[{'start': 285, 'end': 432}], all instances
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 590, 'end': 866}, {'start': 898, 'end': 1167}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 589, 'end': 866}, {'start': 897, 'end': 1169}], all instances
+P40763
+Removal based on domain overlap
+	 REMOVED: STAT3, SH2 domain:IPR035855:[{'start': 554, 'end': 715}], all instances
+P41240
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 195, 'end': 440}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 195, 'end': 440}], all instances
+	 REMOVED: CSK-like, SH2 domain:IPR035027:[{'start': 78, 'end': 175}], all instances
+P42224
+Removal based on domain overlap
+	 REMOVED: STAT1, SH2 domain:IPR035859:[{'start': 557, 'end': 707}], all instances
+P42226
+Removal based on domain overlap
+	 REMOVED: STAT6, SH2 domain:IPR035857:[{'start': 517, 'end': 646}], all instances
+P42229
+Removal based on domain overlap
+	 REMOVED: STAT5a/5b, coiled-coil domain:IPR046994:[{'start': 139, 'end': 330}], all instances
+	 REMOVED: STAT5a/5b, DNA-binding domain:IPR035858:[{'start': 332, 'end': 489}], all instances
+P42679
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 236, 'end': 478}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 235, 'end': 478}], all instances
+	 REMOVED: CSK-like, SH2 domain:IPR035027:[{'start': 118, 'end': 215}], all instances
+P42680
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 370, 'end': 618}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 370, 'end': 619}], all instances
+	 REMOVED: Tyrosine-protein kinase Tec, SH3 domain:IPR035572:[{'start': 182, 'end': 237}], all instances
+P42681
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 272, 'end': 518}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 271, 'end': 520}], all instances
+	 REMOVED: Tyrosine-protein kinase TXK, SH2 domain:IPR035870:[{'start': 143, 'end': 248}], all instances
+	 REMOVED: Tyrosine-protein kinase TXK, SH3 domain:IPR035579:[{'start': 85, 'end': 139}], all instances
+P42684
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 288, 'end': 538}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 288, 'end': 539}], all instances
+	 REMOVED: Tyrosine-protein kinase ABL, SH2 domain:IPR035837:[{'start': 169, 'end': 262}], all instances
+P42685
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 234, 'end': 486}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 234, 'end': 487}], all instances
+	 REMOVED: Tyrosine-protein kinase Frk, SH2 domain:IPR035805:[{'start': 112, 'end': 207}], all instances
+P43403
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 342, 'end': 592}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 338, 'end': 593}], all instances
+	 REMOVED: SYK/ZAP-70, N-terminal SH2 domain:IPR035838:[{'start': 8, 'end': 111}], all instances
+P43405
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 374, 'end': 623}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 371, 'end': 626}], all instances
+	 REMOVED: SYK/ZAP-70, N-terminal SH2 domain:IPR035838:[{'start': 13, 'end': 116}], all instances
+P46108
+Removal based on domain overlap
+	 REMOVED: CRK, N-terminal SH3 domain:IPR035457:[{'start': 135, 'end': 189}], all instances
+	 REMOVED: CRK, C-terminal SH3 domain:IPR035458:[{'start': 237, 'end': 293}], all instances
+P46109
+Removal based on domain overlap
+	 REMOVED: CRK, N-terminal SH3 domain:IPR035457:[{'start': 126, 'end': 180}], all instances
+	 REMOVED: CRK, C-terminal SH3 domain:IPR035458:[{'start': 237, 'end': 293}], all instances
+P51451
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 242, 'end': 489}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 241, 'end': 490}], all instances
+	 REMOVED: Tyrosine-protein kinase Blk, SH2 domain:IPR035853:[{'start': 120, 'end': 219}], all instances
+P51692
+Removal based on domain overlap
+	 REMOVED: STAT5b, SH2 domain:IPR035886:[{'start': 573, 'end': 717}], all instances
+	 REMOVED: STAT5a/5b, coiled-coil domain:IPR046994:[{'start': 139, 'end': 330}], all instances
+	 REMOVED: STAT5a/5b, DNA-binding domain:IPR035858:[{'start': 332, 'end': 489}], all instances
+P51813
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 417, 'end': 665}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 417, 'end': 666}], all instances
+	 REMOVED: BMX, SH2 domain:IPR035875:[{'start': 289, 'end': 394}], all instances
+P52333
+Removal based on domain overlap
+	 REMOVED: Band 4.1 domain:IPR019749:[{'start': 20, 'end': 254}], all instances
+	 REMOVED: JAK, FERM F2 lobe domain:IPR041046:[{'start': 126, 'end': 245}], all instances
+	 REMOVED: FERM F1 lobe ubiquitin-like domain:IPR041155:[{'start': 39, 'end': 114}], all instances
+	 REMOVED: JAK1-3/TYK2, pleckstrin homology-like domain:IPR041381:[{'start': 287, 'end': 357}], all instances
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 521, 'end': 777}, {'start': 823, 'end': 1094}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 521, 'end': 777}, {'start': 822, 'end': 1095}], all instances
+P52630
+Removal based on domain overlap
+	 REMOVED: STAT2, SH2 domain:IPR035854:[{'start': 556, 'end': 706}], all instances
+P52735
+Removal based on domain overlap
+	 REMOVED: VAV2, SH2 domain:IPR035880:[{'start': 667, 'end': 769}], all instances
+	 REMOVED: VAV2 protein, second SH3 domain:IPR035732:[{'start': 819, 'end': 876}], all instances
+	 REMOVED: VAV2 protein, first SH3 domain:IPR035733:[{'start': 590, 'end': 649}], all instances
+	 REMOVED: Calmodulin-regulated spectrin-associated protein-like, Calponin-homology domain:IPR022613:[{'start': 19, 'end': 103}], all instances
+	 REMOVED: Vav, PH domain:IPR037832:[{'start': 389, 'end': 516}], all instances
+P52757
+Removal based on domain overlap
+	 REMOVED: Chimaerin, RhoGAP domain:IPR037860:[{'start': 275, 'end': 468}], all instances
+	 REMOVED: Chimaerin, SH2 domain:IPR035840:[{'start': 52, 'end': 138}], all instances
+	 REMOVED: Diacylglycerol/phorbol-ester binding:IPR020454:[{'start': 212, 'end': 226}, {'start': 228, 'end': 237}, {'start': 241, 'end': 252}, {'start': 253, 'end': 265}], all instances
+P62993
+Removal based on domain overlap
+	 REMOVED: GRB2, N-terminal SH3 domain:IPR035641:[{'start': 1, 'end': 56}], all instances
+	 REMOVED: GRB2, C-terminal SH3 domain:IPR035643:[{'start': 160, 'end': 212}], all instances
+P78314
+Removal based on domain overlap
+	 REMOVED: SH3BP2, SH2 domain:IPR035847:[{'start': 456, 'end': 556}], all instances
+P98077
+Removal based on domain overlap
+	 REMOVED: SH2 adaptor protein C, SH2 domain:IPR035676:[{'start': 479, 'end': 582}], all instances
+	 REMOVED: PTB/PI domain:IPR006020:[{'start': 147, 'end': 329}], all instances
+Q06124
+Removal based on domain overlap
+	 REMOVED: Tyrosine-specific protein phosphatases domain:IPR000387:[{'start': 436, 'end': 512}], all instances
+	 REMOVED: Protein-tyrosine phosphatase, catalytic:IPR003595:[{'start': 414, 'end': 520}], all instances
+Q06187
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 402, 'end': 650}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 402, 'end': 651}], all instances
+	 REMOVED: Tyrosine-protein kinase BTK, SH3 domain:IPR035574:[{'start': 217, 'end': 271}], all instances
+Q08881
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 363, 'end': 612}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 363, 'end': 612}], all instances
+	 REMOVED: Tyrosine-protein kinase ITK/TSK, catalytic domain:IPR042785:[{'start': 358, 'end': 613}], all instances
+	 REMOVED: Tyrosine-protein kinase ITK, SH3 domain:IPR035583:[{'start': 174, 'end': 229}], all instances
+Q13094
+Removal based on domain overlap
+Q13239
+Removal based on domain overlap
+	 REMOVED: SLAP, SH2 domain:IPR035052:[{'start': 73, 'end': 170}], all instances
+	 REMOVED: Src-like-adapter, SH3 domain:IPR035596:[{'start': 26, 'end': 80}], all instances
+Q13322
+Removal based on domain overlap
+	 REMOVED: Grb10, SH2:IPR035037:[{'start': 487, 'end': 594}], all instances
+	 REMOVED: APBB1IP, PH domain:IPR039665:[{'start': 286, 'end': 408}], all instances
+Q13588
+Removal based on domain overlap
+	 REMOVED: GRAP, N-terminal SH3 domain:IPR035645:[{'start': 2, 'end': 55}], all instances
+Q13671
+Removal based on domain overlap
+Q13882
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 192, 'end': 441}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 191, 'end': 441}], all instances
+	 REMOVED: PTK6, SH2 domain:IPR035846:[{'start': 75, 'end': 174}], all instances
+Q14449
+Removal based on domain overlap
+	 REMOVED: Grb14, SH2 domain:IPR035034:[{'start': 433, 'end': 540}], all instances
+	 REMOVED: APBB1IP, PH domain:IPR039665:[{'start': 230, 'end': 351}], all instances
+Q14451
+Removal based on domain overlap
+	 REMOVED: Growth factor receptor-bound protein 7, RA domain:IPR046986:[{'start': 100, 'end': 187}], all instances
+	 REMOVED: Growth factor receptor-bound protein 7, SH2 domain:IPR035032:[{'start': 425, 'end': 532}], all instances
+	 REMOVED: APBB1IP, PH domain:IPR039665:[{'start': 225, 'end': 347}], all instances
+Q14765
+Removal based on domain overlap
+	 REMOVED: STAT4, SH2 domain:IPR035856:[{'start': 553, 'end': 700}], all instances
+	 REMOVED: Signal transducer and activator of transcription 4 , coiled-coil domain:IPR046991:[{'start': 140, 'end': 312}], all instances
+	 REMOVED: Signal transducer and activator of transcription 4, DNA-binding domain:IPR029839:[{'start': 316, 'end': 473}], all instances
+Q15464
+Removal based on domain overlap
+	 REMOVED: SHB, SH2 domain:IPR035045:[{'start': 408, 'end': 504}], all instances
+Q5SQS7
+Removal based on domain overlap
+	 REMOVED: SH2D4B, SH2 domain:IPR035839:[{'start': 317, 'end': 419}], all instances
+Q5VZ18
+Removal based on domain overlap
+	 REMOVED: SHE, SH2 domain:IPR035042:[{'start': 393, 'end': 490}], all instances
+Q63HR2
+Removal based on domain overlap
+	 REMOVED: Tensin-like, SH2 domain:IPR035012:[{'start': 1136, 'end': 1249}], all instances
+	 REMOVED: Tensin/EPS8 phosphotyrosine-binding domain:IPR013625:[{'start': 1275, 'end': 1408}], all instances
+	 REMOVED: Tensin, phosphotyrosine-binding domain:IPR033929:[{'start': 1273, 'end': 1405}], all instances
+Q68CZ2
+Removal based on domain overlap
+	 REMOVED: Protein-tyrosine phosphatase, catalytic:IPR003595:[{'start': 64, 'end': 186}], all instances
+	 REMOVED: Tensin-type phosphatase domain:IPR029023:[{'start': 1, 'end': 170}], all instances
+	 REMOVED: Tensin-like, SH2 domain:IPR035012:[{'start': 1168, 'end': 1284}], all instances
+	 REMOVED: Tensin/EPS8 phosphotyrosine-binding domain:IPR013625:[{'start': 1310, 'end': 1444}], all instances
+	 REMOVED: Tensin, phosphotyrosine-binding domain:IPR033929:[{'start': 1308, 'end': 1439}], all instances
+Q6S5L8
+Removal based on domain overlap
+	 REMOVED: SH2 adaptor protein C, SH2 domain:IPR035676:[{'start': 518, 'end': 618}], all instances
+	 REMOVED: PTB/PI domain:IPR006020:[{'start': 187, 'end': 351}], all instances
+Q6ZV89
+Removal based on domain overlap
+Q7KZ85
+Removal based on domain overlap
+	 REMOVED: Spt6, SH2 domain, N terminus:IPR035019:[{'start': 1331, 'end': 1415}], all instances
+	 REMOVED: Spt6, SH2 domain:IPR035420:[{'start': 1300, 'end': 1514}], all instances
+	 REMOVED: Transcription elongation factor Spt6, YqgF domain:IPR028231:[{'start': 775, 'end': 931}], all instances
+Q7M4L6
+Removal based on domain overlap
+	 REMOVED: SHF, SH2 domain:IPR035044:[{'start': 321, 'end': 418}], all instances
+Q7Z4S9
+Removal based on domain overlap
+Q7Z7G1
+Removal based on domain overlap
+Q8IZW8
+Removal based on domain overlap
+	 REMOVED: Tensin/EPS8 phosphotyrosine-binding domain:IPR013625:[{'start': 582, 'end': 704}], all instances
+	 REMOVED: Tensin, phosphotyrosine-binding domain:IPR033929:[{'start': 580, 'end': 710}], all instances
+Q8N5H7
+Removal based on domain overlap
+	 REMOVED: SHEP1/BCAR3/NSP1, SH2 domain:IPR044102:[{'start': 213, 'end': 347}], all instances
+Q8TB24
+Removal based on domain overlap
+	 REMOVED: Ras and Rab interactor 3, SH2 domain:IPR035869:[{'start': 52, 'end': 153}], all instances
+Q8TC17
+Removal based on domain overlap
+	 REMOVED: GRAP, N-terminal SH3 domain:IPR035645:[{'start': 2, 'end': 55}], all instances
+Q8WV28
+Removal based on domain overlap
+Q8WXH5
+Removal based on domain overlap
+	 REMOVED: SOCS4, SH2 domain:IPR035864:[{'start': 275, 'end': 375}], all instances
+	 REMOVED: SOCS4, SOCS box domain:IPR037342:[{'start': 384, 'end': 439}], all instances
+Q8WYP3
+Removal based on domain overlap
+	 REMOVED: Ras and Rab interactor 2, SH2 domain:IPR035868:[{'start': 86, 'end': 185}], all instances
+Q92529
+Removal based on domain overlap
+	 REMOVED: SH2 adaptor protein C, SH2 domain:IPR035676:[{'start': 492, 'end': 594}], all instances
+	 REMOVED: PTB/PI domain:IPR006020:[{'start': 149, 'end': 314}], all instances
+Q92569
+Removal based on domain overlap
+	 REMOVED: PI3K p85 subunit, C-terminal SH2 domain:IPR035020:[{'start': 351, 'end': 454}], all instances
+	 REMOVED: PI3K p85 subunit, N-terminal SH2 domain:IPR035022:[{'start': 59, 'end': 167}], all instances
+Q92835
+Removal based on domain overlap
+Q96IW2
+Removal based on domain overlap
+	 REMOVED: SHD, SH2 domain:IPR035046:[{'start': 238, 'end': 335}], all instances
+Q96JZ2
+Removal based on domain overlap
+	 REMOVED: Hematopoietic SH2 domain-containing protein, Src homology 2 domain:IPR035047:[{'start': 26, 'end': 127}], all instances
+Q9BRG2
+Removal based on domain overlap
+	 REMOVED: SHEP1/BCAR3/NSP1, SH2 domain:IPR044102:[{'start': 8, 'end': 143}], all instances
+Q9H3Y6
+Removal based on domain overlap
+	 REMOVED: Serine-threonine/tyrosine-protein kinase, catalytic domain:IPR001245:[{'start': 232, 'end': 480}], all instances
+	 REMOVED: Tyrosine-protein kinase, catalytic domain:IPR020635:[{'start': 230, 'end': 480}], all instances
+Q9H6Q3
+Removal based on domain overlap
+	 REMOVED: SLAP, SH2 domain:IPR035052:[{'start': 83, 'end': 186}], all instances
+Q9H788
+Removal based on domain overlap
+Q9HBL0
+Removal based on domain overlap
+	 REMOVED: Tensin-like, SH2 domain:IPR035012:[{'start': 1563, 'end': 1678}], all instances
+	 REMOVED: Tensin-type phosphatase domain:IPR029023:[{'start': 129, 'end': 301}], all instances
+	 REMOVED: Tensin/EPS8 phosphotyrosine-binding domain:IPR013625:[{'start': 1702, 'end': 1837}], all instances
+	 REMOVED: Tensin, phosphotyrosine-binding domain:IPR033929:[{'start': 1700, 'end': 1833}], all instances
+Q9NP31
+Removal based on domain overlap
+	 REMOVED: SH2D2A, SH2 domain:IPR035884:[{'start': 87, 'end': 188}], all instances
+Q9NRF2
+Removal based on domain overlap
+	 REMOVED: SH2B1, SH2 domain:IPR035057:[{'start': 518, 'end': 614}], all instances
+Q9NSE2
+Removal based on domain overlap
+	 REMOVED: CIS, SH2 domain:IPR035887:[{'start': 77, 'end': 164}], all instances
+Q9UGK3
+Removal based on domain overlap
+	 REMOVED: STAP2, SH2 domain:IPR035878:[{'start': 151, 'end': 247}], all instances
+Q9UKW4
+Removal based on domain overlap
+	 REMOVED: VAV3, SH2 domain:IPR035881:[{'start': 666, 'end': 768}], all instances
+	 REMOVED: VAV3 protein, second SH3 domain:IPR035734:[{'start': 791, 'end': 846}], all instances
+	 REMOVED: VAV3 protein, first SH3 domain:IPR047015:[{'start': 596, 'end': 657}], all instances
+	 REMOVED: Calmodulin-regulated spectrin-associated protein-like, Calponin-homology domain:IPR022613:[{'start': 19, 'end': 103}], all instances
+	 REMOVED: Vav, PH domain:IPR037832:[{'start': 383, 'end': 506}], all instances
+Q9ULZ2
+Removal based on domain overlap
+	 REMOVED: STAP1, SH2 domain:IPR035877:[{'start': 176, 'end': 268}], all instances
+Q9UN19
+Removal based on domain overlap
+	 REMOVED: DAPP1, SH2 domain:IPR035843:[{'start': 28, 'end': 119}], all instances
+Q9UQQ2
+Removal based on domain overlap
+	 REMOVED: SH2B3, SH2 domain:IPR035059:[{'start': 355, 'end': 451}], all instances
